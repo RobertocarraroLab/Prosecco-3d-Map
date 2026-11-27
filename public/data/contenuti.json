@@ -310,7 +310,7 @@
   "sempre_visibile": true,
   "distanza_attivazione": null,
   "fonte": "Immagini territorio/San_Pietro_di_Feletto_-_Facciata_della_pieve_-_Foto_di_Paolo_Steffan.jpg",
-  "diritti": "Foto di Paolo Steffan – Wikimedia Commons",
+  "diritti": "Foto di Paolo Steffan (Wikimedia Commons), licenza CC BY 3.0, ridimensionata",
   "note": null,
   "visibile": true,
   "file": "media/san-pietro-di-feletto-facciata-della-pieve.webp",
@@ -319,7 +319,8 @@
    "w": 208,
    "h": 480,
    "disco": 200
-  }
+  },
+  "url": "https://commons.wikimedia.org/wiki/File:San_Pietro_di_Feletto_-_Facciata_della_pieve_-_Foto_di_Paolo_Steffan.jpg"
  },
  {
   "id": "santa-lucia-di-piave",

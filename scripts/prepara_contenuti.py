@@ -58,10 +58,19 @@ ASSOCIAZIONI = {
 }
 
 
+# licenze delle foto libere (dalla pagina del file su Wikimedia Commons, sezione "Licensing")
+LICENZE = {
+    "San_Pietro_di_Feletto_-_Facciata_della_pieve_-_Foto_di_Paolo_Steffan": "CC BY 3.0",
+}
+
+
 def crediti(fname):
     """Crediti da mostrare nella scheda: le foto di Wikimedia Commons hanno "Foto di <autore>" nel nome."""
     m = re.search(r"Foto[_ ]di[_ ](.+?)(\.[a-z]+)?$", fname, re.I)
-    return f"Foto di {m.group(1).replace('_', ' ')} – Wikimedia Commons" if m else None
+    if not m:
+        return None
+    lic = LICENZE.get(os.path.splitext(fname)[0], "licenza da verificare")
+    return f"Foto di {m.group(1).replace('_', ' ')} (Wikimedia Commons), licenza {lic}, ridimensionata"
 
 
 def chiave(fname):

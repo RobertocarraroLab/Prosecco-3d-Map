@@ -36,7 +36,17 @@ export class ContentPopup {
     this.el.querySelector('h2')!.textContent = c.titolo;
     this.el.querySelector('.desc')!.textContent = c.descrizione || '';
     const meta = [luogo, c.fonte && !c.fonte.includes('/') ? `Fonte: ${c.fonte}` : '', c.diritti ? `Diritti: ${c.diritti}` : ''].filter(Boolean).join(' · ');
-    this.el.querySelector('.meta')!.textContent = meta;
+    const metaEl = this.el.querySelector('.meta')!;
+    metaEl.textContent = '';
+    // le licenze Creative Commons citate nei diritti diventano link al testo della licenza (lo richiedono)
+    const lic = meta.match(/CC BY(-SA)? [34]\.0/);
+    if (lic) {
+      const i = lic.index!;
+      const a = document.createElement('a');
+      a.href = `https://creativecommons.org/licenses/${lic[1] ? 'by-sa' : 'by'}/${lic[0].slice(-3)}/deed.it`;
+      a.target = '_blank'; a.rel = 'noopener'; a.textContent = lic[0];
+      metaEl.append(meta.slice(0, i), a, meta.slice(i + lic[0].length));
+    } else metaEl.textContent = meta;
     this.el.hidden = false;
   }
   close() { this.el.hidden = true; }
