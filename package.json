@@ -1,0 +1,33 @@
+{
+  "name": "mappa3d-prosecco",
+  "version": "1.0.0",
+  "description": "Mappa turistica 3D delle Colline del Prosecco di Conegliano e Valdobbiadene",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:claude": "VITE_CLAUDE_ARTIFACT=1 vite build",
+    "preview": "vite preview",
+    "optimize": "node scripts/optimize.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gltf-transform/cli": "^4.5.1",
+    "@gltf-transform/core": "^4.5.1",
+    "@gltf-transform/extensions": "^4.5.1",
+    "@gltf-transform/functions": "^4.5.1",
+    "@supabase/supabase-js": "^2.119.2",
+    "@types/three": "^0.187.0",
+    "meshoptimizer": "^1.3.0",
+    "sharp": "^0.35.5",
+    "three": "^0.187.0",
+    "three-mesh-bvh": "^0.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^6.4.6"
+  },
+  "type": "module"
+}

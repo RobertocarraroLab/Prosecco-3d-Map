@@ -1,0 +1,50 @@
+// Testi dell'interfaccia. Per una nuova lingua: aggiungere un dizionario con le stesse chiavi.
+const it = {
+  aerial: 'Veduta aerea',
+  overview: 'Vista d\'insieme',
+  firstPerson: 'Prima persona',
+  menu: 'Menu',
+  close: 'Chiudi',
+  back: 'Indietro',
+  search: 'Cerca',
+  searchPlaceholder: 'Località, monumenti, foto…',
+  noResults: 'Nessun risultato',
+  routes: 'Itinerari animati',
+  pois: 'Punti di interesse',
+  photos360: 'Foto 360',
+  game: 'Game',
+  gameSoon: 'Prossimamente: giochi e sfide sul territorio delle Colline del Prosecco.',
+  show: 'Mostra',
+  fly: 'Vola',
+  play: 'Avvia',
+  pause: 'Pausa',
+  exitFlight: 'Esci dal volo',
+  speed: 'Velocità',
+  listening: 'In ascolto',
+  routeEnd: 'Fine dell’itinerario',
+  km: 'km',
+  monument: 'Monumento',
+  locality: 'Località',
+  level1: 'Località principali',
+  level2: 'Paesi',
+  level3: 'Frazioni e borghi',
+  monuments: 'Monumenti',
+  contents: 'Contenuti',
+  noContents: 'Nessun contenuto collegato a questo luogo.',
+  walkHere: 'Esplora a piedi',
+  near: 'Vicino a te',
+  open: 'Apri',
+  youAreIn: 'Sei a',
+  fpHintDesktop: 'W A S D o frecce per muoverti · trascina per guardarti intorno · Maiusc per correre',
+  fpHintMobile: 'Joystick per muoverti · trascina per guardarti intorno',
+  tapToLand: 'Tocca il terreno per scendere in prima persona',
+  photo: 'Foto',
+  photo360: 'Foto 360',
+  route: 'Itinerario',
+};
+
+export type Key = keyof typeof it;
+const dict: Record<string, Record<Key, string>> = { it };
+let lang = 'it';
+export function setLang(l: string) { if (dict[l]) lang = l; }
+export function t(k: Key): string { return dict[lang][k] ?? it[k]; }

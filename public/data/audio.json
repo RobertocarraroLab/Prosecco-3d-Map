@@ -1,0 +1,150 @@
+[
+ {
+  "id": "benvenuto-itinerario-1",
+  "itinerario": 1,
+  "titolo": "Benvenuti sull'itinerario rosso",
+  "testo": "Itinerario rosso: un anello nel cuore delle Colline del Prosecco, patrimonio UNESCO. Dalle colline di Saccol e Guia si sale a Rolle e Tarzo, si scende a Conegliano e si torna per San Pietro di Feletto, Refrontolo, Farra di Soligo e Col San Martino, fino a Valdobbiadene.",
+  "u": 0.24603,
+  "v": 0.56289,
+  "raggio": 400,
+  "inizio": true
+ },
+ {
+  "id": "benvenuto-itinerario-2",
+  "itinerario": 2,
+  "titolo": "Benvenuti sull'itinerario giallo",
+  "testo": "Itinerario giallo: la vallata ai piedi delle Prealpi. Da Guia e Combai si attraversano Miane, Follina, Cison di Valmarino e i laghi di Revine, fino a Vittorio Veneto.",
+  "u": 0.27948,
+  "v": 0.46961,
+  "raggio": 400,
+  "inizio": true
+ },
+ {
+  "id": "benvenuto-itinerario-3",
+  "itinerario": 3,
+  "titolo": "Benvenuti sull'itinerario verde",
+  "testo": "Itinerario verde: da Refrontolo si scende tra le colline fino a Collalto, poi a Susegana, con il castello di San Salvatore, e infine a Parè.",
+  "u": 0.57674,
+  "v": 0.41179,
+  "raggio": 400,
+  "inizio": true
+ },
+ {
+  "id": "benvenuto-itinerario-4",
+  "itinerario": 4,
+  "titolo": "Benvenuti sull'itinerario marrone",
+  "testo": "Itinerario marrone: ai piedi del Cansiglio, da Villa di Villa a Sarmede e Montaner.",
+  "u": 0.97525,
+  "v": 0.23135,
+  "raggio": 400,
+  "inizio": true
+ },
+ {
+  "id": "itinerario-1-saccol",
+  "itinerario": 1,
+  "titolo": "Saccol",
+  "testo": "Saccol: siamo nella zona del Cartizze, la collina più pregiata del Prosecco Superiore.",
+  "u": 0.21795,
+  "v": 0.54381,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-1-rolle",
+  "itinerario": 1,
+  "titolo": "Rolle",
+  "testo": "Rolle, il borgo che il poeta Andrea Zanzotto definì una cartolina dipinta dagli dei.",
+  "u": 0.50122,
+  "v": 0.29501,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-1-conegliano",
+  "itinerario": 1,
+  "titolo": "Conegliano",
+  "testo": "Conegliano, città del pittore Cima da Conegliano e sede della prima Scuola Enologica d'Italia, fondata nel 1876.",
+  "u": 0.75456,
+  "v": 0.56837,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-1-san-pietro-di-feletto",
+  "itinerario": 1,
+  "titolo": "San Pietro di Feletto",
+  "testo": "San Pietro di Feletto: l'antica pieve romanica, con i suoi affreschi.",
+  "u": 0.6313,
+  "v": 0.39326,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-2-combai",
+  "itinerario": 2,
+  "titolo": "Combai",
+  "testo": "Combai, terra del Marrone di Combai IGP e del vino Verdiso.",
+  "u": 0.31313,
+  "v": 0.38402,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-2-follina",
+  "itinerario": 2,
+  "titolo": "Follina",
+  "testo": "Follina: l'abbazia cistercense di Santa Maria, con il suo chiostro romanico.",
+  "u": 0.40449,
+  "v": 0.28893,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-2-cison-di-valmarino",
+  "itinerario": 2,
+  "titolo": "Cison di Valmarino",
+  "testo": "Cison di Valmarino, uno dei Borghi più belli d'Italia, dominato da CastelBrando.",
+  "u": 0.45452,
+  "v": 0.2212,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-2-lago",
+  "itinerario": 2,
+  "titolo": "I laghi di Revine",
+  "testo": "I laghi di Revine: qui sorge il parco archeologico del Livelet, con le ricostruzioni delle palafitte.",
+  "u": 0.582,
+  "v": 0.15548,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-2-vittorio-veneto",
+  "itinerario": 2,
+  "titolo": "Vittorio Veneto",
+  "testo": "Vittorio Veneto, nata nel 1866 dall'unione di Ceneda e Serravalle.",
+  "u": 0.74821,
+  "v": 0.14561,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-3-collalto",
+  "itinerario": 3,
+  "titolo": "Collalto",
+  "testo": "Collalto: tra i vigneti, i resti del castello dei conti di Collalto.",
+  "u": 0.55768,
+  "v": 0.647,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-3-susegana",
+  "itinerario": 3,
+  "titolo": "Susegana",
+  "testo": "Susegana e il castello di San Salvatore, residenza dei conti di Collalto.",
+  "u": 0.65774,
+  "v": 0.72474,
+  "raggio": 400
+ },
+ {
+  "id": "itinerario-4-sarmede",
+  "itinerario": 4,
+  "titolo": "Sarmede",
+  "testo": "Sarmede, il paese della fiaba, sede della Mostra internazionale d'illustrazione per l'infanzia.",
+  "u": 0.9206,
+  "v": 0.18093,
+  "raggio": 400
+ }
+]

@@ -1,0 +1,724 @@
+[
+ {
+  "id": "valdobbiadene",
+  "nome": "Valdobbiadene",
+  "livello": 1,
+  "u": 0.17003,
+  "v": 0.50924,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "vittorio-veneto",
+  "nome": "Vittorio Veneto",
+  "livello": 1,
+  "u": 0.74821,
+  "v": 0.14561,
+  "itinerari": [
+   2
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "pieve-di-soligo",
+  "nome": "Pieve di Soligo",
+  "livello": 1,
+  "u": 0.51171,
+  "v": 0.51747,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "conegliano",
+  "nome": "Conegliano",
+  "livello": 1,
+  "u": 0.75456,
+  "v": 0.56837,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "follina",
+  "nome": "Follina",
+  "livello": 1,
+  "u": 0.40449,
+  "v": 0.28893,
+  "itinerari": [
+   2
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "susegana",
+  "nome": "Susegana",
+  "livello": 1,
+  "u": 0.65774,
+  "v": 0.72474,
+  "itinerari": [
+   3
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "nervesa-della-battaglia",
+  "nome": "Nervesa della Battaglia",
+  "livello": 1,
+  "u": 0.56948,
+  "v": 0.85617,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "vidor",
+  "nome": "Vidor",
+  "livello": 2,
+  "u": 0.25081,
+  "v": 0.6827,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "col-san-martino",
+  "nome": "Col San Martino",
+  "livello": 2,
+  "u": 0.34258,
+  "v": 0.54039,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "sernaglia-della-battaglia",
+  "nome": "Sernaglia della Battaglia",
+  "livello": 2,
+  "u": 0.43004,
+  "v": 0.63295,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "farra-di-soligo",
+  "nome": "Farra di Soligo",
+  "livello": 2,
+  "u": 0.41539,
+  "v": 0.49304,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "soligo",
+  "nome": "Soligo",
+  "livello": 2,
+  "u": 0.47299,
+  "v": 0.45974,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "falze-di-piave",
+  "nome": "Falzè di Piave",
+  "livello": 2,
+  "u": 0.51497,
+  "v": 0.66295,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "refrontolo",
+  "nome": "Refrontolo",
+  "livello": 2,
+  "u": 0.57574,
+  "v": 0.40504,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "ponte-della-priula",
+  "nome": "Ponte della Priula",
+  "livello": 2,
+  "u": 0.6671,
+  "v": 0.86376,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "santa-lucia-di-piave",
+  "nome": "Santa Lucia di Piave",
+  "livello": 2,
+  "u": 0.72812,
+  "v": 0.75766,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "miane",
+  "nome": "Miane",
+  "livello": 2,
+  "u": 0.3521,
+  "v": 0.32996,
+  "itinerari": [
+   2
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "cison-di-valmarino",
+  "nome": "Cison di Valmarino",
+  "livello": 2,
+  "u": 0.45452,
+  "v": 0.2212,
+  "itinerari": [
+   2
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "tovena",
+  "nome": "Tovena",
+  "livello": 2,
+  "u": 0.51269,
+  "v": 0.17536,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "tarzo",
+  "nome": "Tarzo",
+  "livello": 2,
+  "u": 0.62626,
+  "v": 0.20689,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "san-giacomo-di-veglia",
+  "nome": "San Giacomo di Veglia",
+  "livello": 2,
+  "u": 0.79727,
+  "v": 0.23943,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "cappella-maggiore",
+  "nome": "Cappella Maggiore",
+  "livello": 2,
+  "u": 0.87154,
+  "v": 0.21714,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "cordignano",
+  "nome": "Cordignano",
+  "livello": 2,
+  "u": 0.97681,
+  "v": 0.30704,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "orsago",
+  "nome": "Orsago",
+  "livello": 2,
+  "u": 0.99073,
+  "v": 0.38377,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "godega-di-sant-urbano",
+  "nome": "Godega di Sant'Urbano",
+  "livello": 2,
+  "u": 0.94208,
+  "v": 0.39377,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "mareno-di-piave",
+  "nome": "Mareno di Piave",
+  "livello": 2,
+  "u": 0.84771,
+  "v": 0.76842,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "saccol",
+  "nome": "Saccol",
+  "livello": 3,
+  "u": 0.21795,
+  "v": 0.54381,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "santo-stefano",
+  "nome": "Santo Stefano",
+  "livello": 3,
+  "u": 0.25212,
+  "v": 0.50772,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "guia",
+  "nome": "Guia",
+  "livello": 3,
+  "u": 0.28458,
+  "v": 0.4748,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "combai",
+  "nome": "Combai",
+  "livello": 3,
+  "u": 0.31313,
+  "v": 0.38402,
+  "itinerari": [
+   2
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "mura",
+  "nome": "Mura",
+  "livello": 3,
+  "u": 0.49512,
+  "v": 0.20739,
+  "itinerari": [
+   2
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "lago",
+  "nome": "Lago",
+  "livello": 3,
+  "u": 0.582,
+  "v": 0.15548,
+  "itinerari": [
+   2
+  ],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "fratta",
+  "nome": "Fratta",
+  "livello": 3,
+  "u": 0.59047,
+  "v": 0.18587,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "santa-maria",
+  "nome": "Santa Maria",
+  "livello": 3,
+  "u": 0.62358,
+  "v": 0.12332,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "col-maggiore",
+  "nome": "Col Maggiore",
+  "livello": 3,
+  "u": 0.63456,
+  "v": 0.14624,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "bigolino",
+  "nome": "Bigolino",
+  "livello": 3,
+  "u": 0.19623,
+  "v": 0.64877,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "colbertaldo",
+  "nome": "Colbertaldo",
+  "livello": 3,
+  "u": 0.26416,
+  "v": 0.61383,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "moriago-della-battaglia",
+  "nome": "Moriago della Battaglia",
+  "livello": 3,
+  "u": 0.36666,
+  "v": 0.6608,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "barbisano",
+  "nome": "Barbisano",
+  "livello": 3,
+  "u": 0.53238,
+  "v": 0.59927,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "collalto",
+  "nome": "Collalto",
+  "livello": 3,
+  "u": 0.55768,
+  "v": 0.647,
+  "itinerari": [
+   3
+  ],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "solighetto",
+  "nome": "Solighetto",
+  "livello": 3,
+  "u": 0.50114,
+  "v": 0.45176,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "pedeguarda",
+  "nome": "Pedeguarda",
+  "livello": 3,
+  "u": 0.46998,
+  "v": 0.40023,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "premaor",
+  "nome": "Premaor",
+  "livello": 3,
+  "u": 0.42044,
+  "v": 0.35376,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "campea",
+  "nome": "Campea",
+  "livello": 3,
+  "u": 0.387,
+  "v": 0.38643,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "rolle",
+  "nome": "Rolle",
+  "livello": 3,
+  "u": 0.50122,
+  "v": 0.29501,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "arfanta",
+  "nome": "Arfanta",
+  "livello": 3,
+  "u": 0.56557,
+  "v": 0.24462,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "san-pietro-di-feletto",
+  "nome": "San Pietro di Feletto",
+  "livello": 3,
+  "u": 0.6313,
+  "v": 0.39326,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "rua",
+  "nome": "Rua",
+  "livello": 3,
+  "u": 0.65669,
+  "v": 0.44758,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "bagnolo",
+  "nome": "Bagnolo",
+  "livello": 3,
+  "u": 0.70306,
+  "v": 0.47252,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "pare",
+  "nome": "Parè",
+  "livello": 3,
+  "u": 0.69728,
+  "v": 0.64687,
+  "itinerari": [
+   3
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "colfosco",
+  "nome": "Colfosco",
+  "livello": 3,
+  "u": 0.61105,
+  "v": 0.79906,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "santa-maria-del-piave",
+  "nome": "Santa Maria del Piave",
+  "livello": 3,
+  "u": 0.77262,
+  "v": 0.85705,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "saccon",
+  "nome": "Saccon",
+  "livello": 3,
+  "u": 0.86552,
+  "v": 0.63105,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "ramera",
+  "nome": "Ramera",
+  "livello": 3,
+  "u": 0.81809,
+  "v": 0.69144,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "ogliano",
+  "nome": "Ogliano",
+  "livello": 3,
+  "u": 0.75927,
+  "v": 0.40491,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "carpesica",
+  "nome": "Carpesica",
+  "livello": 3,
+  "u": 0.73715,
+  "v": 0.30387,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "cozzuolo",
+  "nome": "Cozzuolo",
+  "livello": 3,
+  "u": 0.72161,
+  "v": 0.24778,
+  "itinerari": [
+   1
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "san-lorenzo",
+  "nome": "San Lorenzo",
+  "livello": 3,
+  "u": 0.7042,
+  "v": 0.13421,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "colle-umberto",
+  "nome": "Colle Umberto",
+  "livello": 3,
+  "u": 0.79165,
+  "v": 0.32793,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "castello-roganzuolo",
+  "nome": "Castello Roganzuolo",
+  "livello": 3,
+  "u": 0.8303,
+  "v": 0.42922,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "zoppe",
+  "nome": "Zoppè",
+  "livello": 3,
+  "u": 0.87699,
+  "v": 0.5666,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "montaner",
+  "nome": "Montaner",
+  "livello": 3,
+  "u": 0.9049,
+  "v": 0.09281,
+  "itinerari": [
+   4
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "sarmede",
+  "nome": "Sarmede",
+  "livello": 3,
+  "u": 0.9206,
+  "v": 0.18093,
+  "itinerari": [
+   4
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "rugolo",
+  "nome": "Rugolo",
+  "livello": 3,
+  "u": 0.94582,
+  "v": 0.14814,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ },
+ {
+  "id": "villa-di-villa",
+  "nome": "Villa di Villa",
+  "livello": 3,
+  "u": 0.97527,
+  "v": 0.23132,
+  "itinerari": [
+   4
+  ],
+  "visibile": true,
+  "fonte": "ai-punto"
+ },
+ {
+  "id": "san-fior-di-sotto",
+  "nome": "San Fior di Sotto",
+  "livello": 3,
+  "u": 0.90002,
+  "v": 0.50393,
+  "itinerari": [],
+  "visibile": true,
+  "fonte": "mappa-stradale"
+ }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Mappa 3D Colline del Prosecco</title>
+</head>
+<body>
+  <canvas id="scene" aria-label="Plastico 3D delle Colline del Prosecco"></canvas>
+
+  <div id="loading">
+    <p>Caricamento del plastico…</p>
+    <div class="track"><div id="bar"></div></div>
+  </div>
+
+  <div id="nav-slot"></div>
+
+  <!-- pannello di prova: visibile solo aprendo la pagina con #debug -->
+  <details id="debug" open hidden>
+    <summary><h2>Pannello di prova</h2></summary>
+    <p id="dims" class="muted"></p>
+    <h3>Livelli</h3>
+    <div id="layers"></div>
+    <h3>Punto sul terreno</h3>
+    <p id="coords" class="muted">Tocca o clicca il terreno</p>
+  </details>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

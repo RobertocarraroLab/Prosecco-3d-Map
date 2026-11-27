@@ -1,0 +1,807 @@
+[
+ {
+  "id": "chiesa-di-rolle-church-in-rolle-cison-di-valmarino",
+  "tipo": "immagine",
+  "titolo": "Chiesa di Rolle",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "rolle"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Chiesa di Rolle church in Rolle Cison di Valmarino_1358187850.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/chiesa-di-rolle-church-in-rolle-cison-di-valmarino.webp",
+  "icona": "media/chiesa-di-rolle-church-in-rolle-cison-di-valmarino-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "col-vetoraz-conegliano",
+  "tipo": "immagine",
+  "titolo": "Col Vetoraz",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "conegliano"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Col Vetoraz conegliano_276719190.jpg",
+  "diritti": null,
+  "note": "Posizione da verificare: il nome cita Conegliano",
+  "visibile": true,
+  "file": "media/col-vetoraz-conegliano.webp",
+  "icona": "media/col-vetoraz-conegliano-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "combai",
+  "tipo": "immagine",
+  "titolo": "Combai",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "combai"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Combai_387402496.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/combai.webp",
+  "icona": "media/combai-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "guia",
+  "tipo": "immagine",
+  "titolo": "Guia",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "guia"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Guia 558479399.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/guia.webp",
+  "icona": "media/guia-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "meschio-river-in-cordignano",
+  "tipo": "immagine",
+  "titolo": "Il fiume Meschio a Cordignano",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "cordignano"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Meschio River in Cordignano_502970074.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/meschio-river-in-cordignano.webp",
+  "icona": "media/meschio-river-in-cordignano-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "monumento-ossario-di-nervesa-della-battaglia",
+  "tipo": "immagine",
+  "titolo": "Ossario di Nervesa della Battaglia",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "nervesa-della-battaglia"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Monumento ossario di Nervesa della battaglia_159070626.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/monumento-ossario-di-nervesa-della-battaglia.webp",
+  "icona": "media/monumento-ossario-di-nervesa-della-battaglia-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "nervesa-della-battaglia-piave",
+  "tipo": "immagine",
+  "titolo": "Il Piave a Nervesa della Battaglia",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "nervesa-della-battaglia"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Nervesa della battaglia piave_438454114.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/nervesa-della-battaglia-piave.webp",
+  "icona": "media/nervesa-della-battaglia-piave-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "prosecco-vinyard-near-santo-stefano",
+  "tipo": "immagine",
+  "titolo": "Vigneti di Prosecco a Santo Stefano",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "santo-stefano"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Prosecco vinyard near Santo Stefano,.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/prosecco-vinyard-near-santo-stefano.webp",
+  "icona": "media/prosecco-vinyard-near-santo-stefano-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "ruins-of-the-abbey-of-sant-eustachio-nervesa-della-battaglia",
+  "tipo": "immagine",
+  "titolo": "Rovine dell'abbazia di Sant'Eustachio",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "nervesa-della-battaglia"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Ruins Of The Abbey Of Sant'Eustachio Nervesa Della Battaglia_549838341.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/ruins-of-the-abbey-of-sant-eustachio-nervesa-della-battaglia.webp",
+  "icona": "media/ruins-of-the-abbey-of-sant-eustachio-nervesa-della-battaglia-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "ruins-of-the-abbey-of-sant-eustachio-nervesa-della-battaglia-2",
+  "tipo": "immagine",
+  "titolo": "Rovine dell'abbazia di Sant'Eustachio",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "nervesa-della-battaglia"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Ruins Of The Abbey Of Sant'Eustachio, Nervesa Della Battaglia_663759610.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/ruins-of-the-abbey-of-sant-eustachio-nervesa-della-battaglia-2.webp",
+  "icona": "media/ruins-of-the-abbey-of-sant-eustachio-nervesa-della-battaglia-2-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "san-vigilio-church-in-col-san-martino",
+  "tipo": "immagine",
+  "titolo": "Chiesetta di San Vigilio, Col San Martino",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "col-san-martino"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/San Vigilio Church in Col San Martino_774914445.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/san-vigilio-church-in-col-san-martino.webp",
+  "icona": "media/san-vigilio-church-in-col-san-martino-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "san-pietro-di-feletto-viale",
+  "tipo": "immagine",
+  "titolo": "Viale di San Pietro di Feletto",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "san-pietro-di-feletto"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/San pietro di feletto viale166787730.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/san-pietro-di-feletto-viale.webp",
+  "icona": "media/san-pietro-di-feletto-viale-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "san-pietro-di-feletto",
+  "tipo": "immagine",
+  "titolo": "San Pietro di Feletto",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "san-pietro-di-feletto"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/San pietro di feletto_579978718.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/san-pietro-di-feletto.webp",
+  "icona": "media/san-pietro-di-feletto-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "san-pietro-di-feletto-facciata-della-pieve",
+  "tipo": "immagine",
+  "titolo": "Facciata della pieve di San Pietro di Feletto",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "san-pietro-di-feletto"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/San_Pietro_di_Feletto_-_Facciata_della_pieve_-_Foto_di_Paolo_Steffan.jpg",
+  "diritti": "Foto di Paolo Steffan – Wikimedia Commons",
+  "note": null,
+  "visibile": true,
+  "file": "media/san-pietro-di-feletto-facciata-della-pieve.webp",
+  "icona": "media/san-pietro-di-feletto-facciata-della-pieve-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "santa-lucia-di-piave",
+  "tipo": "immagine",
+  "titolo": "Santa Lucia di Piave",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "santa-lucia-di-piave"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Santa Lucia di Piave458487120.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/santa-lucia-di-piave.webp",
+  "icona": "media/santa-lucia-di-piave-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "santa-maria-di-follina",
+  "tipo": "immagine",
+  "titolo": "Abbazia di Santa Maria di Follina",
+  "descrizione": "",
+  "poi": {
+   "tipo": "monumento",
+   "id": "abbazia di follina"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Santa Maria di Follina_361394343.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/santa-maria-di-follina.webp",
+  "icona": "media/santa-maria-di-follina-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "santa-maria-di-follina-2",
+  "tipo": "immagine",
+  "titolo": "Abbazia di Santa Maria di Follina",
+  "descrizione": "",
+  "poi": {
+   "tipo": "monumento",
+   "id": "abbazia di follina"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Santa Maria di Follina_364800506.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/santa-maria-di-follina-2.webp",
+  "icona": "media/santa-maria-di-follina-2-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "tarzo-colline",
+  "tipo": "immagine",
+  "titolo": "Colline di Tarzo",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "tarzo"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Tarzo colline_2070947384.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/tarzo-colline.webp",
+  "icona": "media/tarzo-colline-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "tempio-di-s-martino",
+  "tipo": "immagine",
+  "titolo": "Tempio di San Martino",
+  "descrizione": "",
+  "poi": null,
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/Tempio di S. Martino_246510127.jpg",
+  "diritti": null,
+  "note": "Nessuna località nel nome del file: da posizionare",
+  "visibile": false,
+  "file": "media/tempio-di-s-martino.webp",
+  "icona": "media/tempio-di-s-martino-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "cantina-nervesa-della-battaglia",
+  "tipo": "immagine",
+  "titolo": "Cantina a Nervesa della Battaglia",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "nervesa-della-battaglia"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/cantina, Nervesa Della Battaglia_778997806.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/cantina-nervesa-della-battaglia.webp",
+  "icona": "media/cantina-nervesa-della-battaglia-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "castle-brando-in-cison-di-valmarino",
+  "tipo": "immagine",
+  "titolo": "CastelBrando, Cison di Valmarino",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "cison-di-valmarino"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/castle Brando in Cison di Valmarino_292385103.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/castle-brando-in-cison-di-valmarino.webp",
+  "icona": "media/castle-brando-in-cison-di-valmarino-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "castle-of-san-salvatore-in-susegana",
+  "tipo": "immagine",
+  "titolo": "Castello di San Salvatore, Susegana",
+  "descrizione": "",
+  "poi": {
+   "tipo": "monumento",
+   "id": "castello di san salvatore"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/castle of San Salvatore in Susegana.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/castle-of-san-salvatore-in-susegana.webp",
+  "icona": "media/castle-of-san-salvatore-in-susegana-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "cison-di-valmarino-castelbrando",
+  "tipo": "immagine",
+  "titolo": "CastelBrando",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "cison-di-valmarino"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/cison di valmarino castelbrando.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/cison-di-valmarino-castelbrando.webp",
+  "icona": "media/cison-di-valmarino-castelbrando-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "mulino-di-refrontolo",
+  "tipo": "immagine",
+  "titolo": "Mulino di Refrontolo",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "refrontolo"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/mulino di Refrontolo_239755821.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/mulino-di-refrontolo.webp",
+  "icona": "media/mulino-di-refrontolo-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "vidor-colline-prosecco",
+  "tipo": "immagine",
+  "titolo": "Colline del Prosecco a Vidor",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "vidor"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "Immagini territorio/vidor colline prosecco_803089891.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/vidor-colline-prosecco.webp",
+  "icona": "media/vidor-colline-prosecco-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "conegliano-formeniga3",
+  "tipo": "foto360",
+  "titolo": "Formeniga",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "conegliano"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "foto360 prosecco/conegliano formeniga3.jpg",
+  "diritti": null,
+  "note": "Posizione da verificare: il nome cita Conegliano",
+  "visibile": true,
+  "file": "media/conegliano-formeniga3-360.jpg",
+  "miniatura": "media/conegliano-formeniga3-360-100.jpg"
+ },
+ {
+  "id": "conegliano-manzana3-albero-rosso",
+  "tipo": "foto360",
+  "titolo": "Manzana, l'albero rosso",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "conegliano"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "foto360 prosecco/conegliano manzana3 albero rosso.jpg",
+  "diritti": null,
+  "note": "Posizione da verificare: il nome cita Conegliano",
+  "visibile": true,
+  "file": "media/conegliano-manzana3-albero-rosso-360.jpg",
+  "miniatura": "media/conegliano-manzana3-albero-rosso-360-100.jpg"
+ },
+ {
+  "id": "valdobbiadene-vigneto-giallo-anfiteatro1-corretta-colore2",
+  "tipo": "foto360",
+  "titolo": "L'anfiteatro dei vigneti, Valdobbiadene",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "valdobbiadene"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "foto360 prosecco/valdobbiadene vigneto giallo anfiteatro1 corretta colore2.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/valdobbiadene-vigneto-giallo-anfiteatro1-corretta-colore2-360.jpg",
+  "miniatura": "media/valdobbiadene-vigneto-giallo-anfiteatro1-corretta-colore2-360-100.jpg"
+ },
+ {
+  "id": "vittorio-veneto-serravalle-collina-9600",
+  "tipo": "foto360",
+  "titolo": "Serravalle dalla collina",
+  "descrizione": "",
+  "poi": {
+   "tipo": "monumento",
+   "id": "serravalle vittorio veneto"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "fonte": "foto360 prosecco/vittorio veneto serravalle collina 9600.jpg",
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "file": "media/vittorio-veneto-serravalle-collina-9600-360.jpg",
+  "miniatura": "media/vittorio-veneto-serravalle-collina-9600-360-100.jpg"
+ },
+ {
+  "id": "chiesa-di-colle-san-martino-a-valdobbiadene",
+  "tipo": "immagine",
+  "titolo": "Chiesa di Colle San Martino, Valdobbiadene",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "valdobbiadene"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "fonte": "Immagini territorio/chiesa di colle san martino a Valdobbiadene_217457473.jpg",
+  "file": "media/chiesa-di-colle-san-martino-a-valdobbiadene.webp",
+  "icona": "media/chiesa-di-colle-san-martino-a-valdobbiadene-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "valdobiadene-centro-storico",
+  "tipo": "immagine",
+  "titolo": "Centro storico di Valdobbiadene",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "valdobbiadene"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "fonte": "Immagini territorio/valdobiadene centro storico_523055737.jpg",
+  "file": "media/valdobiadene-centro-storico.webp",
+  "icona": "media/valdobiadene-centro-storico-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "conegliano-colle-con-il-castello-e-le-ville-storiche",
+  "tipo": "immagine",
+  "titolo": "Il colle del Castello e le ville storiche, Conegliano",
+  "descrizione": "",
+  "poi": {
+   "tipo": "monumento",
+   "id": "castello conegliano"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "fonte": "Immagini territorio/Conegliano colle con il Castello e le ville storiche 282314380.jpg",
+  "file": "media/conegliano-colle-con-il-castello-e-le-ville-storiche.webp",
+  "icona": "media/conegliano-colle-con-il-castello-e-le-ville-storiche-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "conegliano-facciata-affrescata-della-cattedrale",
+  "tipo": "immagine",
+  "titolo": "Facciata affrescata del Duomo di Conegliano",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "conegliano"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "fonte": "Immagini territorio/conegliano facciata affrescata della cattedrale_449388049.jpg",
+  "file": "media/conegliano-facciata-affrescata-della-cattedrale.webp",
+  "icona": "media/conegliano-facciata-affrescata-della-cattedrale-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "conegliano-teatro-accademia-in-piazza-cima",
+  "tipo": "immagine",
+  "titolo": "Teatro Accademia in piazza Cima, Conegliano",
+  "descrizione": "",
+  "poi": {
+   "tipo": "localita",
+   "id": "conegliano"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "fonte": "Immagini territorio/Conegliano teatro Accademia in piazza Cima_653788735.jpg",
+  "file": "media/conegliano-teatro-accademia-in-piazza-cima.webp",
+  "icona": "media/conegliano-teatro-accademia-in-piazza-cima-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "vittorio-veneto-centro-storico-di-serravalle",
+  "tipo": "immagine",
+  "titolo": "Centro storico di Serravalle, Vittorio Veneto",
+  "descrizione": "",
+  "poi": {
+   "tipo": "monumento",
+   "id": "serravalle vittorio veneto"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "fonte": "Immagini territorio/vittorio veneto centro storico di Serravalle 221014103.jpg",
+  "file": "media/vittorio-veneto-centro-storico-di-serravalle.webp",
+  "icona": "media/vittorio-veneto-centro-storico-di-serravalle-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ },
+ {
+  "id": "vittorio-veneto-serravalle-fontana-di-santa-augusta",
+  "tipo": "immagine",
+  "titolo": "Fontana di Santa Augusta, Serravalle",
+  "descrizione": "",
+  "poi": {
+   "tipo": "monumento",
+   "id": "serravalle vittorio veneto"
+  },
+  "sempre_visibile": true,
+  "distanza_attivazione": null,
+  "diritti": null,
+  "note": null,
+  "visibile": true,
+  "fonte": "Immagini territorio/vittorio veneto serravalle fontana di Santa Augusta_80854553.jpg",
+  "file": "media/vittorio-veneto-serravalle-fontana-di-santa-augusta.webp",
+  "icona": "media/vittorio-veneto-serravalle-fontana-di-santa-augusta-icona.webp",
+  "icona_dim": {
+   "w": 208,
+   "h": 480,
+   "disco": 200
+  }
+ }
+]
